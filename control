@@ -1,0 +1,9 @@
+Package: kr.xsf1re.nonavercafead
+Name: NoNaverCafeAD
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove NaverCafe ADs.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
